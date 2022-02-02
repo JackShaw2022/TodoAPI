@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SampleJson_jan10</string>
+    <string name="todo">todos</string>
+    <string name="post">posts</string>
+    <string name="users">users</string>
+</resources>
